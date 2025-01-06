@@ -12,4 +12,4 @@ dxvk-2.4-gplasync.tzst
 dxvk-2.4.tzst
 dxvk-2.5.1.2-gplasync.tzst
 dxvk-2.5.2.tzst
-dxvk-2.5.2-gplasync.tzst
+dxvk-2.5.2.gpla.tzst
